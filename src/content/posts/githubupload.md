@@ -1,18 +1,6 @@
----
-title: 从零开始，学会上传，更新，维护github仓库
-published: 2026-08-30
-pinned: false
-description: 一份从头到尾、覆盖安装、配置、创建仓库、上传项目到 GitHub 的完整教程。
-tags: [Github]
-category: 工具书
-licenseName: "未授权"
-author: plikplik
-sourceLink: "https://github.com/plikplik1999"
-seriesOrder: 1
----
 # 从零开始，学会上传，更新，维护github仓库
 
-以下是一份从头到尾、覆盖安装、配置、创建仓库、上传项目到 GitHub 的完整教程。
+以下是一份从头到尾、覆盖安装、配置、创建仓库、上传项目到 GitHub 的完整教程。全程使用通用示例，不包含任何具体的仓库链接，仅供参考。
 
 ---
 

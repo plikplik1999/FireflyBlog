@@ -1,6 +1,10 @@
 {
 	"name": "plikplikblog",
+<<<<<<< HEAD
 	"compatibility_date": "2026-08-29",
+=======
+	"compatibility_date": "2025-01-01",
+>>>>>>> 1696499d4f49d570630e473890314d1b4187ff60
 	"compatibility_flags": ["nodejs_compat"],
 	"assets": {
 		"directory": "./dist"
